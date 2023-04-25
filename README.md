@@ -8,11 +8,12 @@ Basically creates a fake contribution graph on your github overview page.
 Usage:
 
 1. Clone repo.
-2. Run the python script using the command:
+
 ## Warning:
 ```diff
 Running the script will directly edit your contribution graph, you have to delete the repo in your github account to reverse contribution graph changes.
 ```
+2. Run the python script using the command:
 
 ```
 python generate_graph.py
