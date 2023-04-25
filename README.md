@@ -2,7 +2,7 @@
 
 ### This project is only to show that github contribution graph don't really matter. It's just the work you put up what matters.
 
-Basically creates a fake contribution graph.
+Basically creates a fake contribution graph on your github overview page.
 
 Usage:
 
