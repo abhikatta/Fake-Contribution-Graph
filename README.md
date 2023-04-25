@@ -20,4 +20,4 @@ python generate_graph.py
 
 3. Let it do the job.
 
-<b>This project is only a demonstration of ridiculously easy it is to create a fake github contribution graph. Not intended for functional usage. <b>
+<b>This project is only a demonstration of ridiculously easy it is to create a fake github contribution graph and that contribution graph doesn't matter. Not intended for functional usage. <b>
